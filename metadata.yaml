@@ -1,0 +1,38 @@
+_repo: Dans-la-Haute-Gambie-b-Voyage-d-exploration-scientifique-1891-1892_73690
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rançon, A. (André)
+    aliases:
+    - Rançon, André
+    - Rancon, A. (Andre)
+    birthdate: 1858
+    deathdate: 1900
+    gutenberg_agent_id: '57180'
+    url: http://www.gutenberg.org/2009/agents/57180
+    wikipedia: https://fr.wikipedia.org/wiki/Andr%C3%A9_Ran%C3%A7on
+description: ''
+gutenberg_issued: '2024-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73690'
+language: fr
+pgterms:marc904: https://archive.org/details/danslahautegambi00ranc
+pgterms:marc905: 20240506233536ranon
+pgterms:marc906: '1894'
+pgterms:marc907: FR
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive/University of California Libraries and the bibliothèque
+  numérique du Cirad (NumBA))
+publication_note: '  $aParis :$bSociété d''Editions Scientifiques, $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gambia River -- Description and travel'
+- !lcsh 'Gambia -- Description and travel'
+- !lcsh 'Guinea -- Description and travel'
+- !lcc 'DT'
+- GITenberg
+title: 'Dans la Haute-Gambie : $b Voyage d''exploration scientifique, 1891-1892'
+url: http://www.gutenberg.org/ebooks/73690
