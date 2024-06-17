@@ -1,5 +1,8 @@
 _repo: Dans-la-Haute-Gambie-b-Voyage-d-exploration-scientifique-1891-1892_73690
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73690-h/images/cover.jpg
 creator:
   author:
     agent_name: Rançon, A. (André)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57180
     wikipedia: https://fr.wikipedia.org/wiki/Andr%C3%A9_Ran%C3%A7on
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73690#Dans-la-Haute-Gambie-b-Voyage-d-exploration-scientifique-1891-1892
 gutenberg_issued: '2024-05-24'
 gutenberg_type: Text
 identifiers:
